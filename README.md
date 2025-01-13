@@ -1,7 +1,7 @@
 # phd
 
-# main.py
-## inputs
+## main.py
+### inputs
   pathsname = "aug" ## aug or no_aug
   hhhh = "h1"
   names = ["test", "valid", "train"]
@@ -9,5 +9,12 @@
   sizes = 32
   color_mode = "LAB"  # Could also be "LAB" or "H"
 
-# helpers_opencv.py
+
+## helpers_opencv.py
 Its a support file for main.py, it handles the actual processing of individual annotation files.
+
+
+
+## ml.py
+Its trains the ML models from the data above.
+
