@@ -9,3 +9,7 @@ opencv-python==4.10.0.84
 colour-science==0.4.1
 imageio==2.36.1
 python==3.9.7
+colour-checker-detection==0.1.3
+networkx==2.8.8
+scipy==1.9.3
+tqdm==4.65.0
